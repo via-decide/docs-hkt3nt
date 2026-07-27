@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lc1av3.salamkita.shop/sitemap.xml
